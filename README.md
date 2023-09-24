@@ -11,9 +11,7 @@
 
 ### Console commands templates for test:
 
-```
-node index -a list
-```
+`node index -a list`
 
 2. node index -a get -id 05olLMgyVQdWRwgKfg5J6
 3. node index -a add -n Mango -e mango@gmail.com -p 322-22-22
