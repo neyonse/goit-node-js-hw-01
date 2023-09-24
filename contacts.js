@@ -4,7 +4,7 @@ import { nanoid } from "nanoid";
 
 const contactsPath = path.resolve("db", "contacts.json");
 
-export const listContacts = async () => {
+export const getContactsList = async () => {
   try {
     const buffer = await fs.readFile(contactsPath);
     return JSON.parse(buffer);
