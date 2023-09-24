@@ -9,9 +9,12 @@
 4. ![remove contact by id](https://monosnap.com/image/8FtOTXa1MY90mZJOqwZk5mcdEcDNqM)
    [Remove contact by id](https://monosnap.com/file/8FtOTXa1MY90mZJOqwZk5mcdEcDNqM)
 
-### Console commands templates:
+### Console commands templates for test:
 
-1. -a list
-2. -a get -id 05olLMgyVQdWRwgKfg5J6
-3. -a add -n Mango -e mango@gmail.com -p 322-22-22
-4. -a remove -id qdggE76Jtbfd9eWJHrssH
+```
+node index -a list
+```
+
+2. node index -a get -id 05olLMgyVQdWRwgKfg5J6
+3. node index -a add -n Mango -e mango@gmail.com -p 322-22-22
+4. node index -a remove -id qdggE76Jtbfd9eWJHrssH
