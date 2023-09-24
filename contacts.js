@@ -15,7 +15,7 @@ export const getContactsList = async () => {
 
 export const getContactById = async (id) => {
   try {
-    const contactsList = await listContacts();
+    const contactsList = await getContactsList();
     const contact = contactsList.find((contact) => contact.id === id);
     return contact || null;
   } catch (error) {
@@ -25,7 +25,7 @@ export const getContactById = async (id) => {
 
 export const removeContact = async (id) => {
   try {
-    const contactsList = await listContacts();
+    const contactsList = await getContactsList();
     const index = contactsList.findIndex((contact) => contact.id === id);
 
     if (index === -1) {
@@ -51,7 +51,7 @@ export const addContact = async (name, email, phone) => {
   };
 
   try {
-    const contactsList = await listContacts();
+    const contactsList = await getContactsList();
 
     contactsList.push(newContact);
     await fs.writeFile(contactsPath, JSON.stringify(contactsList, null, 2));
