@@ -1,12 +1,12 @@
 ## Console commands results:
 
-1. Get all contacts:
+1. [Get all contacts] (https://ibb.co/VjByQpQ)
    ![Get all contacts] (https://ibb.co/VjByQpQ)
 2. Get contact by id:
 3. Add new contact:
 4. Remove contact by id:
 
-## Console commands templates:
+### Console commands templates:
 
 1. -a list
 2. -a get -id 05olLMgyVQdWRwgKfg5J6
