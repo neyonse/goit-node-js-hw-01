@@ -1,7 +1,7 @@
 ## Console commands results:
 
-1. [Get all contacts] (https://ibb.co/VjByQpQ)
-   ![Get all contacts] (https://ibb.co/VjByQpQ)
+1. ![get all contacts](https://ibb.co/VjByQpQ)
+   [Get all contacts](https://ibb.co/VjByQpQ)
 2. Get contact by id:
 3. Add new contact:
 4. Remove contact by id:
