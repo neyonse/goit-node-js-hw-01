@@ -1,7 +1,7 @@
 ## Console commands results:
 
-1. ![get all contacts](https://ibb.co/https://i.ibb.co/tmCfxPx/Screenshot-1.png)
-   [Get all contacts](https://ibb.co/VjByQpQ)
+1. ![get all contacts](https://monosnap.com/file/WHbL2y6OGfwl9oDYpCjfJaGJwIzFQO)
+   [Get all contacts](https://monosnap.com/file/WHbL2y6OGfwl9oDYpCjfJaGJwIzFQO)
 2. Get contact by id:
 3. Add new contact:
 4. Remove contact by id:
