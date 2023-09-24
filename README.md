@@ -1,6 +1,6 @@
 ## CLI commands results
 
-**_Get all contacts:_**
+_Get all contacts:_
 
 ![get all contacts](https://monosnap.com/image/WHbL2y6OGfwl9oDYpCjfJaGJwIzFQO "Click will open image in a new tab")
 
