@@ -1,6 +1,6 @@
 ## CLI commands results
 
-<p color='blue'>Get all contacts:</p>
+<font color="blue">Get all contacts:</font>
 
 ![get all contacts](https://monosnap.com/image/WHbL2y6OGfwl9oDYpCjfJaGJwIzFQO "Click will open image in a new tab")
 
